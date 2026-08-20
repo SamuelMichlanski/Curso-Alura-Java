@@ -20,7 +20,8 @@ public class DesafioCbc {
         System.out.println("2 - Subtração");
         System.out.println("3 - Multiplicação");
         System.out.println("4 - Divisão");
-        int escolha = leitura.nextInt();sa
+        int escolha = leitura.nextInt();
+        //teste
 
     }
 }
