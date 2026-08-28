@@ -25,6 +25,7 @@ public class Adivinha {
 
             int palpite = leitura.nextInt();
 
+
             if (palpite == numberRandom) {
                 System.out.println("Acertou!");
                 acertou = true;
