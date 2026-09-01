@@ -1,8 +1,6 @@
-import com.sun.source.tree.WhileLoopTree;
-
 import java.util.Scanner;
 
-public class LoopTwo {
+public class loopTwo {
     public static void main(String[] args) {
 
         Scanner leitura = new Scanner(System.in);

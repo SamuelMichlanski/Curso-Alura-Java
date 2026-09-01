@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PositivoOuNegativo {
+public class positivoOuNegativo {
     static void main() {
         System.out.println("Digite um número para a identificação se é positivo ou negativo");
         Scanner leitura = new Scanner(System.in);

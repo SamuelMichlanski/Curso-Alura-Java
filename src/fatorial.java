@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Fatorial {
+public class fatorial {
     static void main() {
         Scanner leitura = new Scanner(System.in);
 

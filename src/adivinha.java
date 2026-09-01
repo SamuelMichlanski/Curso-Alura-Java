@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Random;
 
-public class Adivinha {
+public class adivinha {
     static void main() {
 
         int numeroRandom = new Random().nextInt(101);
